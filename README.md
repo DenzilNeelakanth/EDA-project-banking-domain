@@ -29,6 +29,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a banking dataset u
 ---
 
 ## 📁 Folder Structure
+```
 EDA-project-banking-domain/
 │
 ├── data/ # Contains the dataset(s)
@@ -36,17 +37,18 @@ EDA-project-banking-domain/
 ├── eda_banking.ipynb # Main Jupyter notebook
 └── README.md # Project documentation
 
+```
 ## 🚀 How to Run
 
 1. Clone the repo:
-   bash
+   ```bash
    git clone https://github.com/DenzilNeelakanth/EDA-project-banking-domain.git
 
 2. Install the required Libraries:
-   bash
+   ```bash
    pip install -r requirements.txt
 
 3.Launch Jupyter Notebook: 
-    bash
+    ```bash
     jupyter notebook eda_banking.ipynb
 
